@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://planillasimple.flexipaginas.net/$1"
+ }
+  ]
+}
